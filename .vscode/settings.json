@@ -1,0 +1,6 @@
+{
+	"files.associations": {
+		"*.twig": "twig",
+		"minishell.h": "c"
+	}
+}
